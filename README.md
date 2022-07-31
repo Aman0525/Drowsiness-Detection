@@ -1,0 +1,2 @@
+# Drowsiness-Detection
+Drowsy driving means operating a motor vehicle when a person is unable to remain alert due to lack of sleep. Drowsy driving is also known as sleep-deprived driving, fatigued driving, or tired driving. Driving in this state leads to slow, decreased reaction time and judgment of stimuli. In some cases, the driver may also fall asleep behind the wheel. Sleep deprivation is a major cause of motor vehicle accidents, and it can affect the human brain as much as alcohol can.
